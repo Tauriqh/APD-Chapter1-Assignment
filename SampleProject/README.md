@@ -1,1 +1,1 @@
-This is a project that gets Student Deatails
+This is a project that gets Student Details
